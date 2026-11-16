@@ -39,6 +39,8 @@ python pomodoro.py
   - `alternar_timer`, `resetar_timer`, `set_modo`, `parar_ciclo`: controle do cronômetro.
   - `definir_tempo_customizado`: lê e valida os tempos digitados.
 
-## Autora
+## Autores
 
-Sofia
+Sofia Fagundes
+Sophia Graf
+Isabella Miranda
