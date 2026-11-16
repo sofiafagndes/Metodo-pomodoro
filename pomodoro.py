@@ -2,7 +2,9 @@
 """
 Created on Sun Nov  8 16:41:07 2026
 
-@author: Sofia
+@author: Sofia Fagundes
+Isabella Miranda
+Sophia Graf
 """
 
 
