@@ -3,7 +3,7 @@
 Aplicativo de Pomodoro feito em Python com `tkinter`, usando programação orientada a objetos.
 O programa alterna automaticamente entre **tempo de foco** e **tempo de pausa**, e só para quando o usuário encerra o ciclo.
 
-## Funcionalidades
+# Funcionalidades
 
 - Cronômetro com círculo de progresso (`Canvas`) e relógio digital.
 - Tempos de foco e de pausa configuráveis (de 1 a 59 minutos). Padrão: 25 e 5 minutos.
